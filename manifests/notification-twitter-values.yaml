@@ -18,7 +18,7 @@
 ###################################################################################################
 
 image:
-  repository: ibmstocktrader/notification-twitter   # Docker Hub
+  repository: slombardo2/notification-twitter   # Docker Hub
   #repository: mycluster.icp:8500/stock-trader/notification-twitter         # IBM Cloud Private
   #repository: registry.ng.bluemix.net/stock_trader/notification-twitter    # IBM Container Service
   tag: latest
